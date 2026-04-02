@@ -1,0 +1,26 @@
+.avatar_c19a55[src*="1457995743322443893"] ~ h3 > .headerText_c19a55::after {
+  content: "Goober";
+  background-color: #b418b9;
+  color: #fff;
+  display: inline-block;
+  white-space: nowrap;
+  border-radius: 4px;
+  padding: 0 4px;
+  font-size: 10px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+
+
+.avatar_c19a55[src*="1152733749168050256"] ~ h3 > .headerText_c19a55::after {
+  content: "Goober";
+  background-color: #3706be;
+  color: #fff;
+  display: inline-block;
+  white-space: nowrap;
+  border-radius: 4px;
+  padding: 0 4px;
+  font-size: 10px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
