@@ -1,3 +1,4 @@
+@import url(https://raw.githubusercontent.com/hunter0980/blep/refs/heads/main/blep2.css);
 .avatar_c19a55[src*="1457995743322443893"] ~ h3 > .headerText_c19a55::after {
   content: "Goober";
   background-color: #b418b9;
