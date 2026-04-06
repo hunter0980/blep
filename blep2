@@ -1,0 +1,6 @@
+@import url(https://raw.githubusercontent.com/hunter0980/blep/refs/heads/main/blep.css);
+@import url("https://spinfish.github.io/amethyst/support/amethyst.compiled.css");
+[class*="avatar"] {
+    border-radius: 10% !important;
+}
+
